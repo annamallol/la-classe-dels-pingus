@@ -1,22 +1,22 @@
 <!-- _coverpage.md -->
 
 
-# Creación Multimedia Interactiva
+# La Classe dels Pingüins - EP Vallfosca
  
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="Tres quarts a.png" width="300" height=auto alt="Logotipo"/>
 
 
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Anna Mallol García
 
 ### Enlace a Itch.io: ____________
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
