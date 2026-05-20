@@ -1,4 +1,4 @@
-## (La Classe dels Pingus-EP Vallfosca)
+## La Classe dels Pingüins-EP Vallfosca
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : (La Classe dels Pingus-EP Vallfosca)
+**Titulo** : La Classe dels Pingüins-EP Vallfosca
 
 **Web:**   (url github.io)
 
-**Autor:**  (Anna Mallol García) 
+**Autor:**  Anna Mallol García
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
