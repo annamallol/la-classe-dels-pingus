@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (La Classe dels Pingus-EP Vallfosca)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : (La Classe dels Pingus-EP Vallfosca)
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  (Anna Mallol García) 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto consiste en la búsqueda de las canciones del EP del grupo catalán La Classe dels Pingüins.
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
