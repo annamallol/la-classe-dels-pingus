@@ -1,6 +1,6 @@
-## La Classe dels Pingüins-EP Vallfosca
+## La Classe dels Pingüins-EP Vall Fosca
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 
 
@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : La Classe dels Pingüins-EP Vallfosca
+**Titulo** : La Classe dels Pingüins-EP Vall Fosca
 
 **Web:**   (url github.io)
 
@@ -16,9 +16,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto consiste en la búsqueda de las canciones del EP del grupo catalán La Classe dels Pingüins.
+**Resumen** : Este proyecto consiste en la búsqueda de las canciones del EP del grupo catalán La Classe dels Pingüins. El personaje principal es un pingüino que llega a un pueblo y mientras va explorando puede encontrar diversas canciones, las cuales están repartidas por todo el juego.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
