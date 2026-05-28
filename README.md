@@ -49,7 +49,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En el proyecto hay un personaje que explora un mapa que se divide en cinco espacios; la plaza principal, un edificio residencial, un videoclub, una discoteca y un bosque. El personaje puede moverse por la plaza principal y puede entrar a cada espacio para explorarlo. En cada espacio puede encontrar canciones que están escondidas en uno de los objetos de cada habitación. La idea general es que el usuario pueda escuchar las canciones y disfrutarlas a la vez que explora cada espacio. En cada una de las localizaciones ocurrirán situaciones concretas que representan el concepto de cada canción.
 
 
 
@@ -88,7 +88,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a gente que disfrute la música y los videojuegos
 
 
 
@@ -98,24 +98,18 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+He planteado el proyecto como un espacio interactivo con botones que permiten moverse entre espacios. Para las instrucciones, he planteado un pequeño tutorial en formato video al cual se puede acceder desde un botón que aparece en la plaza principal del juego. Para las canciones que hay que encontrar he usado botones camuflados con los objetos de cada espacio; cuando se pulsa el botón, aparece un panel donde se puede activar, desactivar y seleccionar el segundo que se quiere reproducir.
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+He tenido muchos problemas para poner el vídeo. Cuando conseguí ponerlo, funcionaba perfectamente y de repente el programa se colgó. Al Volver a cargar Godot, el proyecto se abría pero no cargaba la escena en la que estuve trabajando. Lo intenté solucionar, pero la lié más porque eliminé una carpeta que no era y perdí todo el progreso de dos semanas de trabajo. Creo que el vídeo fue el principal detonante, porque supongo que al intentar redimensionarlo el programa no lo entendió y se quedó colgado.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+En general durante el proceso de trabajo me lo he pasado bien, pero 
 
 
 
