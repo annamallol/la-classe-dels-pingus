@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 - Instagram
 
 
-![girl](Tres quarts a.png)
+![girl](Tres%20quarts%20a.png)
 
 # 2. Memoria del proyecto 
 
