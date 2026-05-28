@@ -19,7 +19,9 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 **Estilo/género:**  Juego
 
-**Logotipo** : ![pingu](Tres%20quarts%20a.png)
+**Logotipo** : 
+
+![pingu](Tres%20quarts%20a.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
