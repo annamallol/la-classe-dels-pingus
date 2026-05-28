@@ -4,9 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 ![portada](portada.png)
 
-# 1 Datos 
-
-
+# 1 Datos
 
 **Titulo** : La Classe dels Pingüins-EP Vall Fosca
 
@@ -23,7 +21,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 ![pingu](pingu200114.png)
 
-**Resolución:** 114x200px 
+**Resolución:** 1152x648px 
 
 **Probado en:**   Google Chrome, Safari.
 
@@ -38,58 +36,48 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 ### 2.1 Storyboard: 
 
+En el proyecto hay un personaje que explora un mapa que se divide en cinco espacios; la plaza principal, un edificio residencial, un videoclub, una discoteca y un bosque. El personaje puede moverse por la plaza principal y puede entrar a cada espacio para explorarlo. En cada espacio puede encontrar canciones que están escondidas en uno de los objetos de cada habitación. La idea general es que el usuario pueda escuchar las canciones y disfrutarlas a la vez que explora cada espacio. En cada una de las localizaciones ocurrirán situaciones concretas que representan el concepto de cada canción.
+
 ![](storyboard1.JPG)
 
 ![](storyboard2.JPG)
 
-En el proyecto hay un personaje que explora un mapa que se divide en cinco espacios; la plaza principal, un edificio residencial, un videoclub, una discoteca y un bosque. El personaje puede moverse por la plaza principal y puede entrar a cada espacio para explorarlo. En cada espacio puede encontrar canciones que están escondidas en uno de los objetos de cada habitación. La idea general es que el usuario pueda escuchar las canciones y disfrutarlas a la vez que explora cada espacio. En cada una de las localizaciones ocurrirán situaciones concretas que representan el concepto de cada canción.
-
-
 
 ### 2.2. Esquema de navegación 
-
-
 
 ![](esquema.JPG)
 
 
-
-
-
-
-
 # 3. Metodología
-
-![lobby](fondo.PNG)
 
 ## Etapa 1: Ideación de proyecto
 
 **Investigación de campo**
 
+Me he fijado en el artista Conrad Roset, que mezcla técnicas plásticas con técnicas digitales en sus videojuegos, y también me he inspirado en los juegos "Club Penguin" y "Purble Place".
+
+![gris](inspo3.png) ![clubpenguin](inspo1.png) ![purbleplace](inspo2.png) 
 
 **Motivación de la propuesta** 
 
-Este  proyecto lo realicé para crear 
-
-
+Este juego lo realicé para completar un proyecto que estoy haciendo con mi grupo de música "La Classe dels Pingüins". El proyecto consiste en un EP de cinco canciones, cada una de ellas de un estilo musical y temática diferentes. El juego es una representación visual de la estética de las canciones y de las historias que se cuentan a lo largo del EP.
 
 **Publico / audiencia**
 
 - Orientado a un público adolescente/adulto
 
-
-
-
-
 ## Etapa 2: Desarrollo / actividades realizadas
 
 He planteado el proyecto como un espacio interactivo con botones que permiten moverse entre espacios. Para las instrucciones, he planteado un pequeño tutorial en formato video al cual se puede acceder desde un botón que aparece en la plaza principal del juego. Para las canciones que hay que encontrar he usado botones camuflados con los objetos de cada espacio; cuando se pulsa el botón, aparece un panel donde se puede activar, desactivar y seleccionar el segundo que se quiere reproducir.
 
+![lobby](fondo.PNG)
+![cap1](captures1.png)
+![cap2](captures2.png)
+![cap3](captures3.png)
 
 ## Etapa 3: Problemas identificados
 
 He tenido muchos problemas para poner el vídeo. Cuando conseguí ponerlo, funcionaba perfectamente y de repente el programa se colgó. Al volver a cargar Godot, el proyecto se abría pero no cargaba la escena en la que estuve trabajando. Lo intenté solucionar, pero la lié más porque eliminé una carpeta que no era y perdí todo el progreso de dos semanas de trabajo. Creo que el vídeo fue el principal detonante, porque supongo que al intentar redimensionarlo el programa no lo entendió y se quedó colgado.
-
 
 
 # 4. Conclusiones 
@@ -119,4 +107,4 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
