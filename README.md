@@ -14,15 +14,12 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 **Autor:**  Anna Mallol García
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
 **Resumen** : Este proyecto consiste en la búsqueda de las canciones del EP del grupo catalán La Classe dels Pingüins. El personaje principal es un pingüino que llega a un pueblo y mientras va explorando puede encontrar diversas canciones, las cuales están repartidas por todo el juego.
 
 **Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : ![pingu](Tres%20quarts%20a.png)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -40,8 +37,6 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 - Twitter
 - Instagram
 
-
-![girl](Tres%20quarts%20a.png)
 
 # 2. Memoria del proyecto 
 
